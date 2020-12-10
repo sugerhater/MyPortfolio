@@ -10,8 +10,7 @@ Our job is to make as close as provided images as possible. A screenshot for ind
     Repository website: <https://github.com/sugerhater/MyPortfolio>
 
 ## Credits
-    Some images are come from OhioState_coding_bootcamp.
-    Bootstrap.
+    HTML file and CSS file are come from OhioState_coding_bootcamp.
 
 ## License
         MIT License

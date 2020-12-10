@@ -1,3 +1,16 @@
+.container{
+    background: url(../Images/cool-background.png);
+}
+
+.row {
+    margin-left:0px;
+}
+
+
+#portfolioContent{
+    background:url(../Images/cool-background2.png)
+}
+
 @media (max-width:376px) {
     /* section {
         margin-left: 0px;
@@ -33,10 +46,6 @@
         padding-left: 0.5rem;
         padding-right: 0rem;
     }
-    img {
-        margin-left: 0rem;
-        margin-right:0rem;
-    }
 }
 
 
@@ -52,12 +61,17 @@
     /* body {
         background-color: black;
     } */
-    img {
+    /* img {
         margin-left: 0.5rem;
         margin-right:0.5rem;
-    }
+    } */
 }
 
 /* body {
     background-color: black;
 } */
+
+
+img {
+    height:100%;
+}
