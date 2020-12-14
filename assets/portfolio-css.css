@@ -2,8 +2,15 @@
     background: url(../Images/cool-background.png);
 } */
 
+html{
+    background-color: white;
+}
+
 body{
     background: url(../Images/cool-background.png);
+    max-width: 760px;
+    margin-left: auto;
+    margin-right: auto;
 
 }
 
