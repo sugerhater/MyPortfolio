@@ -132,14 +132,30 @@ h1 {
   background-color: #F2EBEC;
 }
 
+
+small {
+  padding-top: 5px!important;
+}
+
+small {
+  font-style: italic;
+}
+
+.card-title,
+.card-text {
+    padding-left: 1.25rem;
+}
+
+
 #portfolio {
   min-width: 100%;
   padding-right: 60px!important;
   padding-left: 60px!important;
 }
 
-small {
-  padding-top: 5px!important;
+#portfolio {
+  background: #F2EBEC;
+  margin-bottom: 50px;
 }
 
 #portfolio h1 {
@@ -171,6 +187,12 @@ small {
 
 .gitLinks {
   bottom: 0;
+}
+
+.btn {
+  background-color: #F2D0A7;
+  border: #F2D0A7;
+  color: #2182BF;
 }
 
 #gitHub a:hover {
