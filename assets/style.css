@@ -71,6 +71,12 @@ header {
   left: 50%;
 }
 
+h1 {
+  font-size: 70px;
+  color: #afbdc9;
+  font-family: 'Roboto', sans-serif;
+}
+
 #about {
   background-color: #56738C;
   color: #F2EBEC;
