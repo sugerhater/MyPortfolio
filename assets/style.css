@@ -141,10 +141,6 @@ small {
   font-style: italic;
 }
 
-.card-title,
-.card-text {
-    padding-left: 1.25rem;
-}
 
 
 #portfolio {
@@ -205,6 +201,52 @@ small {
   border: 0;
   border-radius: 5px;
   box-shadow: 0 0 30px -5px hsl(0deg 0% 21% / 45%);
+}
+
+.card-title,
+.card-text {
+    padding-left: 1.25rem;
+}
+
+#words {
+  text-decoration: underline;
+}
+
+#thankYou {
+  background-color: #56738C;
+  display: flex;
+  padding: 80px 30px;
+  padding-bottom: 160px;
+  justify-content: center;
+}
+
+#contact {
+  text-align: center;
+  background:#23303a;
+  margin: auto;
+  font-size: 20px;
+  color: #F2EBEC;
+  transform: translateY(-100px);
+  width: 85%;
+  padding: 30px;
+  border: 0;
+  border-radius: 5px;
+  box-shadow: 0 0 30px -5px hsl(0deg 0% 21% / 45%);
+  min-height: 200px;
+}
+
+#contact i {
+  font-size: 35px;
+  padding: 30px;
+}
+
+#contact a {
+  color:#F2EBEC;
+  text-decoration: gray;
+}
+
+#contact a:hover {
+  color: #56738C;
 }
 
 @media (min-width: 320px) and (max-width: 650px) {
