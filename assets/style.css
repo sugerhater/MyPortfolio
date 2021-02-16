@@ -125,3 +125,78 @@ header {
   transform: translateY(-100px);
   background-color: #F2EBEC;
 }
+
+#portfolio {
+  min-width: 100%;
+  padding-right: 60px!important;
+  padding-left: 60px!important;
+}
+
+small {
+  padding-top: 5px!important;
+}
+
+#portfolio h1 {
+  color: #56738C;
+}
+
+#portfolioHeader{
+  text-align: center;
+  justify-content: center;
+}
+
+#portfolio h3 {
+  font-size: 29px;
+  font-family: 'Volkhov', serif;
+  color: #56738C;
+  padding-left: 17px!important;
+}
+
+#portfolio h4 {
+  color: #56738C;
+  margin-bottom: 50px;
+}
+
+#portfolio a:hover {
+  color: #F2D0A7;
+  text-transform: uppercase;
+  background-color: #2182BF;
+}
+
+.gitLinks {
+  bottom: 0;
+}
+
+#gitHub a:hover {
+  background-color: #F2EBEC;
+  color: #56738C;
+}
+
+#portfolio .card {
+  background-color: #F2EBEC;
+  border: 0;
+  border-radius: 5px;
+  box-shadow: 0 0 30px -5px hsl(0deg 0% 21% / 45%);
+}
+
+@media (min-width: 320px) and (max-width: 650px) {
+  header {
+      margin-bottom: 50px;
+  }
+  #intro {
+      margin-top: 20px;
+  }
+  #introLines {
+      margin-top: 70px;
+      text-align: center;
+  }
+  h1 {
+      font-size: 60px;
+  }
+
+  #portfolio {
+      padding-right: 15px!important;
+      padding-left: 15px!important;
+  }
+}
+
