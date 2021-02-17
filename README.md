@@ -6,11 +6,11 @@ Our job is to make as close as provided images as possible. A screenshot for ind
 ![readme2](https://user-images.githubusercontent.com/71996574/108159441-0ded9e80-70b5-11eb-9809-c1d29d1ad322.PNG)
 
 ## Installation
-    Deployed website:  <https://www.ilikehong.com/>
-    Repository website: <https://github.com/sugerhater/MyPortfolio>
+Deployed website:  <https://www.ilikehong.com/>
+Repository website: <https://github.com/sugerhater/MyPortfolio>
 
 ## Credits
-    :octocat:[mmeii](https://github.com/mmeii/portfolio)
+:octocat:[mmeii](https://github.com/mmeii/portfolio)
 
 ## License
         MIT License
